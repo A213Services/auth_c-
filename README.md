@@ -1,14 +1,10 @@
 # auth_c++ 
 
 
-⭐️ FEATURES ⭐️
-
-➢ Auth Login Panel Seller in C++
-
-➢ RunPE File in Loader
-
-➢ Run Normal File by Loader
-
+<b>⭐️ <u>FEATURES</u> ⭐️</b> <br>
+➢ Auth Login Panel Seller in C++ <br>
+➢ RunPE File in Loader <br>
+➢ Run Normal File by Loader <br>
 ➢ Download & Secure files protect by webhook api <br>
 ➢ Login by Licences KEY or Username and Password 
 
