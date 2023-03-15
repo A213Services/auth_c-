@@ -9,7 +9,7 @@
 
 ➢ Run Normal File by Loader
 
-➢ Download & Secure files protect by webhook api /n
+➢ Download & Secure files protect by webhook api \n
 ➢ Login by Licences KEY or Username and Password 
 
 
