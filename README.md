@@ -1,9 +1,18 @@
 # auth_c++ 
 
 
-Après avoir télécharger la source veuillez créer un dossier libs à la racine puis extraire le fichier libs.rar dans le dossier
-Vous pouvez maintenant ouvrir le project avec visual studio , attention vous devez être en mode release x64 pour être fonctionnel 
-Connecter vous à votre panel seller puis veuillez copier coller vos API de login 
+⭐️ FEATURES ⭐️
+➢ Auth Login Panel Seller in C++
+➢ RunPE File in Loader
+➢ Run Normal File by Loader
+➢ Download & Secure files protect by webhook api 
+➢ Login by Licences KEY or Username and Password 
+
+
+⭐️ TUTORIAL ⭐️
+After downloading the source please create a libs folder at the root then extract the libs.rar file in the folder
+You can now open the project with visual studio, be careful you must be in x64 release mode to be functional
+Connect to your seller panel then please copy paste your login APIs
 
 std::string name = ("api_name"); 
 std::string ownerid = ("api_ownerid"); 
