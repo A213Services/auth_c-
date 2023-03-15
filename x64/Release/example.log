@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.34.31933\atlmfc\include\atlcore.h(659,2): warning C4191: 'reinterpret_cast' : une conversion non sécurisée de 'FARPROC' en 'BOOL (__cdecl *)(DWORD)'
+          Making un appel de fonction à l’aide du pointeur résultant peut entraîner l’échec de votre programme.
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+D:\Tool\wSource\CALL OF PROJECT\A_Loader\Auth_c++\api\KeyAuth.hpp(185): warning C4715: 'KeyAuth::utils::get_hwid' : les chemins de contrôle ne retournent pas tous une valeur
+  All 2438 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  example.vcxproj -> D:\Tool\wSource\CALL OF PROJECT\A_Loader\Auth_c++\x64\Release\example.exe
